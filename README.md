@@ -16,7 +16,7 @@ This project is an AI-powered research agent that retrieves information from the
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/hillhack/Research-ai-agent
    cd research_agent
    ```
 2. Create a virtual environment:
