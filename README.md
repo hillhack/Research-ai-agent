@@ -5,6 +5,9 @@ AI-powered research agent that fetches relevant search results, summarizes infor
 This project is an AI-powered research agent that retrieves information from the web and generates structured answers using advanced NLP models. It integrates **TavilySearchResults** for web search and **Hugging Face Inference API** for text generation. The system follows a two-step workflow:
 1. **Research Agent**: Fetches relevant information on a given topic from the web.
 2. **Answer Drafter Agent**: Processes the retrieved data and generates a structured answer.
+3.
+    ![image](https://github.com/user-attachments/assets/259dc4e0-c0bf-41a6-8a35-c66c057e612a)
+
 
 ## Features
 - Web search capabilities using **TavilySearchResults**
